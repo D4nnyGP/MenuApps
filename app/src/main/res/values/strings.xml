@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PruebaMenuApps</string>
+    <string name="search">Buscar</string>
+    <string name="item1">Opción 1</string>
+    <string name="item2">Opción 2</string>
+    <string name="favorite">Favorito</string>
+    <string name="share">compartir</string>
+</resources>
